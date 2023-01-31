@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Quantum Computing and AI-related projects
-- 🌱 I’m currently learning everything I can in the fields of Computer Vision, NLP, QML
+- 🌱 I’m currently learning everything I can in the fields of Computer Vision, Natural Language Processing (NLP), Quantum Machine Learning (QML)
 - 👯 I’m looking to collaborate on any revolutionary ideas that benefit the world in the loong run
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/sai-ganesh-manda-bo2002/)
