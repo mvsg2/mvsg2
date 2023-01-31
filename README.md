@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything I can in the areas of Computer Vision, Natural Language Processing, Quantum Machine Learning
 - 👯 I’m looking to collaborate on any revolutionary ideas that benefit the world in the long run (open to all kinds of research!)
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/sai-ganesh-manda-bo2002/)
+
+
