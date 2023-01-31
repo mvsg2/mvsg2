@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![dilution refrigerator](https://user-images.githubusercontent.com/89340753/215691074-09a6c4e9-9ea0-4264-9abf-def513c30c99.jpeg)
+![dilution refrigerator](https://user-images.githubusercontent.com/89340753/215691074-09a6c4e9-9ea0-4264-9abf-def513c30c99.jpeg) <br>
 ![giphy](https://user-images.githubusercontent.com/89340753/215689934-f14ee714-82c0-4dc3-97f8-3a3034ca5702.gif)![AlphaSignal_GIF](https://user-images.githubusercontent.com/89340753/215690371-4a7836ca-c564-48c5-8099-cb1e2cddb47b.gif)
 
 
