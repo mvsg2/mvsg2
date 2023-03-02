@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Sai. I am a quantum enthusiast, exploring my way through deep learning research, perhaps looking for ways to merge Quantum and AI
 
 <!--
 **mvsg2/mvsg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
