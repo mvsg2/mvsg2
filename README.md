@@ -7,7 +7,7 @@ I am Sai. I am a quantum enthusiast, exploring my way in deep learning research,
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Quantum Computing and AI-realted projects
-- 🌱 I’m currently learning everything I can in the fields of Computer Vision, NLP, QML
+- 🌱 I’m learning everything I can in the fields of Computer Vision, NLP, QML
 - 👯 I’m looking to collaborate on any revolutionary ideas that benefit the world in the loong run
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
