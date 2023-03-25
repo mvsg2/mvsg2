@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mvsg2002@gmail.com
 
 
-<red>`A person who never made a mistake has never tried anything new` </red><br>
+`A person who never made a mistake has never tried anything new` <br>
                                                      - Albert Einstein
