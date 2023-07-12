@@ -1,14 +1,14 @@
 ### Hi there 👋
-I am Sai. I am a quantum enthusiast, exploring the interdisciplinary fields of research, & looking for ways to work around Quantum & AI projects.
+I am Sai. I am a quantum enthusiast, exploring the interdisciplinary fields of research, & looking for ways to work around Quantum & AI projects. I hope that my contributions make a difference in this world.
 
 <!--
 **mvsg2/mvsg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Quantum Computing and AI-realted projects
+- 🔭 I’m currently working on Quantum Computing and AI-related projects
 - 🌱 I’m learning everything I can in the fields of Computer Vision, NLP, QML
-- 👯 I’m looking to collaborate on any revolutionary ideas that benefit the world in the loong run
+- 👯 I’m looking to collaborate on any revolutionary ideas that benefit the world in the long run
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/sai-ganesh-manda-bo2002/)
