@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AlphaSignal_GIF](https://user-images.githubusercontent.com/89340753/215690371-4a7836ca-c564-48c5-8099-cb1e2cddb47b.gif)
+<!-- ![AlphaSignal_GIF](https://user-images.githubusercontent.com/89340753/215690371-4a7836ca-c564-48c5-8099-cb1e2cddb47b.gif) -->
 
 
-- 🔭 I’m currently working on Quantum Computing and AI-related projects
-- 🌱 I’m learning everything I can in the areas of Computer Vision, Natural Language Processing, Quantum Machine Learning
-- 👯 I’m looking to collaborate on any revolutionary ideas that benefit the world in the long run (open to all kinds of research!)!
-- 📫 How to reach me: mvsg2002@gmail.com
+- Proficient in Python and C++, I am excited to contribute to the open-source development of computer vision and quantum error correction software stacks.
+- Passionate about interdisciplinary research across domains.
+
+![neural network](https://github.com/user-attachments/assets/9f661feb-26bb-477d-a6f5-9c3adac15b44)
+
+![qubits](https://github.com/user-attachments/assets/0a20e502-a659-4280-b629-1c978382a3a6) 
 
 
 `A person who never made a mistake has never tried anything new` <br>
